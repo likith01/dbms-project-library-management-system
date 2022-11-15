@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.img{
+  
+        background-image: url("https://cdn.pixabay.com/photo/2017/08/06/22/01/books-2596809_960_720.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        height:100vh;
+    
+}
+.jumbotron{
+    opacity: 40%;
+    color:rgb(255, 255, 255);
+    background-color: black;
+    font-family: 'Patua One', cursive;
+    letter-spacing: 3px;
+    text-align: center;
+    position: fixed;
+}
+.logsec{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+  }
+
+  .logsec{
+    margin-top: 30px;
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 0 12px rgba(0,0,0,0.75);
+    color:black;
+    padding-top:60px;
+    font-weight: 60px;
+  }
+   
+  .main-heading{
+   padding-top: 10px;
+   padding-bottom: 10px;
+  }
+
+  .heading{
+        font-size: 33px;
+        letter-spacing: 1.5px;
+        color: black;
+      padding-top: 40px;
+      
+  }
+
+  button{
+      width: 100px;
+      height: 30px;
+      background-color: rgba(0,0,0,0.75);
+      color: white;
+      border: none;
+      border-radius: 3px;
+      box-shadow: 0 0 7px rgba(0,0,0,1);
+  }
+
+  button:hover{
+    border: 1px solid black;
+    box-shadow: 0 0 3px 0 white;
+  }
+

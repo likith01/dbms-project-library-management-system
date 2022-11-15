@@ -1,0 +1,61 @@
+/*img{
+    margin-left: 55%;
+    margin-inline: 55%;
+    margin-top: -10%;
+}
+.login_form{
+    width: 350px;
+    left: 50%;
+    transform: translate(-50%, -35%);
+    position: absolute;
+    color: rgb(0, 7, 7);
+    top: 60% ;
+}
+.login_form h1{
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+    text-decoration-line:underline;
+    font-family: 'Moon Dance', cursive;
+
+    
+}
+.login_form p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+.login_form input{
+    font-size: 15px;
+    width: 100%;
+    border: 20px;
+    padding: 15px 10px;
+    outline:black;
+    border-radius: 5px;
+
+}
+.login_form button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 1px;
+    width: 50%;
+    border-radius: 5px;
+} 
+body{
+    background: radial-gradient(rgb(31, 158, 180) , rgb(253, 253, 253));
+}
+.jumbotron{
+    background-color:#347b85 ;
+}
+.al{
+    font-family: 'Lobster', cursive;
+    font-family: 'Moon Dance', cursive;
+    font-family: 'Pacifico', cursive;
+}
+.btn-btn-default:hover{
+    background:#06c8d6;
+    color: black;
+    
+}
+*/

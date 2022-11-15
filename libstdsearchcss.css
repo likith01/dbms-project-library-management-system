@@ -1,0 +1,104 @@
+.jumbotron{
+    background-color:#347b85 ;
+    background-image: url("../img/onlinebook.png");
+    background-size: cover;
+}
+img {
+    display: inline-block;
+  }
+
+#wc{
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Moon Dance', cursive;
+    font-family: 'Pacifico', cursive;
+    text-align: centers;
+    margin-left: 200px;
+    margin-top: 50px;
+    opacity: 85%;
+    color: radial-gradient(#fff,#000000);
+}
+#to{
+    margin-left: 400px;
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 35px;
+}
+body{
+    
+    background: radial-gradient(rgb(31, 158, 180),rgb(253, 253, 253));
+    
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    padding:20px;
+    font-size: 20px;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #fc1414;
+  }
+
+  .searchbks{
+    width: 350px;
+    top: 77%;
+    left: 50%;
+    transform: translate(-50%, -35%);
+    position: absolute;
+    color: rgb(0, 0, 0);
+}
+.searchbks h1{
+    font-size: 45px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+    text-decoration-line:underline ;
+    font-family: 'Bree Serif', serif;
+    
+}
+.searchbks p{
+    font-size: 20px;
+    margin: 0p 0;
+}
+.searchbks input{
+    font-size: 15px;
+    width: 70%;
+    border: 10px;
+    padding: 5px 10px;
+    outline:black;
+    border-radius: 5px;
+
+}
+.searchbks button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 1px;
+    width: 50%;
+    border-radius: 5px;
+}
+
+.btn-btn-default:hover{
+    background:#06c8d6;
+    color: black;
+}
